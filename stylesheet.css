@@ -1,11 +1,11 @@
 body {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
-	-webkit-transition:background-color linear 5s;
-	-moz-transition:background-color linear 5s;
-	-o-transition:background-color linear 5s;
-	-ms-transition:background-color linear 5s;
-	transition:background-color linear 5s;
+	-webkit-transition:background-color linear 4s;
+	-moz-transition:background-color linear 4s;
+	-o-transition:background-color linear 4s;
+	-ms-transition:background-color linear 4s;
+	transition:background-color linear 4s;
 	overflow-x:hidden;
 }
 .container {
